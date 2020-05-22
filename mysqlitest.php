@@ -1,6 +1,6 @@
 <?php
-# Fill our vars and run on cli
-# $ php -f db-connect-test.php
+#Completar com os dados do banco e autenticacao
+#rodar com php -f nomedoarquivo no SSH
 
 $dbname = 'name';
 $dbuser = 'user';
